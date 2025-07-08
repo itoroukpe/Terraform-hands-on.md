@@ -23,6 +23,7 @@ This workshop is designed to provide participants with a practical, step-by-step
 ### **Part 1: Installing Terraform**
 1. **Download Terraform:**
    - Visit [Terraform Downloads](https://www.terraform.io/downloads.html).
+   - https://developer.hashicorp.com/terraform/install
    - Select the appropriate package for your operating system.
 
 2. **Install Terraform:**
